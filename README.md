@@ -4,10 +4,10 @@ In this lab, we will use Selenium to scrape a website and store the file in an s
 
 ====================================================================
 
-python version: 3.10.14
-packages:
-boto3
-selenium
-urllib3=1.26.2
-pandas
-s3fs
+python version: 3.10.14	
+packages:	
+boto3	
+selenium		
+urllib3=1.26.2		
+pandas		
+s3fs		
